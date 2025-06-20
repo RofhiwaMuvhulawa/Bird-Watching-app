@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonLayout" type="id" />
+    <item name="uploadImageButton" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="notesEditText" type="id" />
+    <item name="raritySpinner" type="id" />
+    <item name="uploadImageView" type="id" />
+    <item name="markBirdButton" type="id" />
+</resources>
